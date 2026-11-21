@@ -1,9 +1,9 @@
-// OSS Assignment 3 - Modified by 김이레 
 #include <stdio.h>
 #include "cal.h"
 
 int main()
 {
+        printf("OSS 202413124 김이레\n");
         char c;
         int a;
         int b;
