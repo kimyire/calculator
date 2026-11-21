@@ -1,4 +1,4 @@
-// OSS Assignment 3 - Modified by 김이레
+int oss_assignment_3(void);
 int add(int a, int b)
 {
         return a + b;
